@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StingBool", "StingBool\StingBool.csproj", "{16934A3E-5551-462A-9287-F4A3DE51BA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16934A3E-5551-462A-9287-F4A3DE51BA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16934A3E-5551-462A-9287-F4A3DE51BA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16934A3E-5551-462A-9287-F4A3DE51BA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16934A3E-5551-462A-9287-F4A3DE51BA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A28AB7-3E69-4E1F-9860-169F1B37E124}
+	EndGlobalSection
+EndGlobal

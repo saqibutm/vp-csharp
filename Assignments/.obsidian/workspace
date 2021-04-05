@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "cafdbc649c9eb192",
+        "id": "e17e558cd1f17a1f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Lecture - Basics.md",
-            "mode": "source"
+            "file": "Screenshot 2021-04-03 at 5.00.21 PM.png"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture - Basics.md",
+                "file": "Screenshot 2021-04-03 at 5.00.21 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +85,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Lecture - Basics.md",
-    "Assignments.md",
-    "Untitled.md"
+    "Screenshot 2021-04-03 at 5.00.21 PM.png",
+    "Screenshot 2021-04-03 at 4.58.03 PM.png",
+    "Chapter 1 - Introduction.md",
+    "pngs/Screenshot 2021-04-03 at 4.32.34 PM.png",
+    "pngs/Screenshot 2021-04-03 at 10.20.33 AM 1.png",
+    "pngs/Screenshot 2021-04-03 at 4.38.54 PM.png",
+    "pngs/Screenshot 2021-03-21 at 8.02.00 PM.png",
+    "pngs/Screenshot 2021-04-03 at 11.47.58 AM 1.png",
+    "pngs/Screenshot 2021-04-03 at 11.47.58 AM.png",
+    "pngs/Screenshot 2021-04-03 at 11.43.29 AM.png"
   ]
 }
