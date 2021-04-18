@@ -1,3 +1,11 @@
+
+#### Assignment 5
+1. What is the difference between ASCII and UNICODE?
+2. Convert the following into the Binary, Octal, and Hexadecimal number system.
+   99, 85, 2354, -79, 0.345, -0.6789, 3+i8, -3-i9
+3. Solve the Exercises in Chapter 2 slides from 1-10.
+4. Upload the pics of classnote book in Google Classroom as Assignment 5.
+
 #### Assignment 4
 1. Make a short video explaining the difference between .Net 5, .Net Core, and .Net Framework. Place it in your Dropbox and paste its link Assignment 4 Google Doc.
 2. What is the three step compiling process of C#? How it is different from C++? Write it on your class notebook.
