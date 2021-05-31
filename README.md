@@ -3,7 +3,7 @@ Book  - C# 9 and .NET 5 – Modern Cross-Platform Development - Fifth Edition: B
 by Mark J. Price
 
 #### Assignment 6
-Solve exercises 18,19,20, and 21 available in Chapter-2a on class notebook and upload the snippets in Google Classroom as a part of Assignment 6.
+Solve exercises 18,19,20, and 21 available in 2. NumberSystem on class notebook and upload the snippets in Google Classroom as a part of Assignment 6.
 
 #### Assignment 5
 1. What is the difference between ASCII and UNICODE?

@@ -8,12 +8,13 @@ namespace Operators
         {
             // Arithmatic Operators
             var a = 10;
-            var b = 3;
+            int b = 3;
 
             Console.WriteLine(a + b);
             Console.WriteLine(a / b);
             Console.WriteLine((float)a / (float)b);
 
+      
 
             // Operator Precedence
             var x = 1;
@@ -22,7 +23,7 @@ namespace Operators
             Console.WriteLine(x + y * z);
             Console.WriteLine((x + y) * z);
 
-            // Comparsion Operators - Always result in a boolean value
+            // Comparsion Operators
             Console.WriteLine(x > y);
             Console.WriteLine(x == y);
             Console.WriteLine(x != y);
@@ -31,6 +32,7 @@ namespace Operators
             //Logical Operators
             Console.WriteLine(z > x && y > x);
             Console.WriteLine(z > x && y == x);
+            Console.WriteLine(z > x || y == x);
 
 
 

@@ -3,7 +3,6 @@
 namespace CSharpFundamentals
 {
     public class Person
-
     {
         public string FirstName;
         public string LastName;
@@ -12,6 +11,5 @@ namespace CSharpFundamentals
         {
             Console.WriteLine("My name is " + FirstName + " " + LastName);
         }
-
     }
 }

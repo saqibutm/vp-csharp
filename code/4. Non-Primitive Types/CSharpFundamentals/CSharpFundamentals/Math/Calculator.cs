@@ -1,11 +1,10 @@
-﻿//using CSharpFundamentals.Math;
-
-namespace CSharpFundamentals
+﻿namespace CSharpFundamentals.Math
 {
     public class Calculator
     {
-        public Calculator()
+        public float Add(int a, int b)
         {
+            return a + b;
         }
     }
 }
