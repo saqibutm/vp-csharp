@@ -2,6 +2,9 @@
 Book  - C# 9 and .NET 5 – Modern Cross-Platform Development - Fifth Edition: Build Intelligent Apps, Websites, and Services With Blazor, ASP.NET Core, and Entity Framework Core Using Visual Studio Code
 by Mark J. Price
 
+#### Assignment 7
+Compile, run and upload (GitHub) all the examples explained in the lectures of Non-Primitive Datatypes. Further, write down the anatomy of each program on your class notebook and upload their snapshots on Google Docs.
+
 #### Assignment 6
 Solve exercises 18,19,20, and 21 available in 2. NumberSystem on class notebook and upload the snippets in Google Classroom as a part of Assignment 6.
 
