@@ -28,26 +28,26 @@ namespace WorkingText
             Console.WriteLine("New Name is: {0}", newName);
 
             if (String.IsNullOrEmpty(""))
-                Console.WriteLine("Invalid");
+                Console.WriteLine("Invalid1");
 
             if (String.IsNullOrEmpty(null))
-                Console.WriteLine("Invalid");
+                Console.WriteLine("Invalid2");
 
             if (String.IsNullOrEmpty(" "))
-                Console.WriteLine("Invalid");
+                Console.WriteLine("Invalid3");
 
             if (String.IsNullOrEmpty(" ".Trim()))
-                Console.WriteLine("Invalid");
+                Console.WriteLine("Invalid4");
 
             if (String.IsNullOrWhiteSpace(" "))
-                Console.WriteLine("Invalid");
+                Console.WriteLine("Invalid5");
 
             var str = "25";
             var age = Convert.ToByte(str);
             Console.WriteLine(age);
 
             var price = 29.95f;
-            Console.WriteLine(price.ToString("C"));
+            Console.WriteLine(price.ToString("C0"));
 
         }
     }

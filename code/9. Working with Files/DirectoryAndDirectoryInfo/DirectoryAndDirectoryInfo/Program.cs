@@ -16,6 +16,8 @@ namespace DirectoryAndDirectoryInfo
                 Console.WriteLine(file);
             }
 
+           
+
             var directories = Directory.GetDirectories(@"/Users/saqibali/Documents/git/csharp/code/", "*.*",
                 SearchOption.AllDirectories);
 
