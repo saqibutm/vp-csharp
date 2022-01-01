@@ -27,7 +27,7 @@ Solve exercises 18,19,20, and 21 available in 2. NumberSystem on class notebook 
 1. Make a short video explaining the difference between .Net 5, .Net Core, and .Net Framework. Place it in your Dropbox and paste its link Assignment 4 Google Doc.
 2. What is the three step compiling process of C#? How it is different from C++? Write it on your class notebook.
 3. Solve Q50,52,53,55,58,59, and 61 on class notebook using C# and paste the solutions snapshots in Assignment 4 Google Doc. These questions are available in Chapter 3 of C++ book.
-4. Compile and run Q50,52,53,55,58,59, and 61 using c#.
+4. Compile and run Q50,52,53,55,58,59, and 61 using c#. Use fix values of variables. No need to take input from the keyboard.
 5. Push the code of Q50,52,53,55,58,59, and 61 in your GitHub repository.
 
 #### Assignment 3
